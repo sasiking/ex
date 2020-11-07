@@ -1,3 +1,6 @@
+import React from 'react';
+import ReactDOM from 'react-dom';
+
 function transform(offset) {
   const cos = Math.cos(offset);
   const sin = Math.sin(offset);
